@@ -3,7 +3,7 @@ Vim. Live It. Font Glyphs
 
 It's not enough to use vim, you've got to live it.
 
-This is a font glyph set based on [Tyler Cipriani](http://www.tylercipriani.com)'s [Vim. Live It.](http://www.tylercipriani.com/vim.html) graphic. It was created using the fabulous [IcoMoon App](http://icomoon.io/app)
+This is a font glyph set based on [Tyler Cipriani](http://www.tylercipriani.com)'s [Vim. Live It.](https://github.com/thcipriani/vim-live-it) graphic. It was created using the fabulous [IcoMoon App](http://icomoon.io/app)
 
 
 ## Usage
